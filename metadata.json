@@ -1,0 +1,6 @@
+{
+  "name": "Costify — Business Planning, Budget & Decision Engine",
+  "description": "Production-grade AI business planning, market & product research, budget estimation, and feasibility decision engine with Costify.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
